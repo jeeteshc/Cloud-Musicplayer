@@ -1,6 +1,9 @@
 [![Build Status](https://travis-ci.org/Cloud-Player/web.svg?branch=master)](https://travis-ci.org/Cloud-Player/web)
 
 # Cloud-Player combines the libraries of multiple streaming providers into a single music player. Search for tracks on Youtube, SoundCloud or on Mixcloud and play them without switching between browser tabs. We are planning to extend Cloud-Player with even more music providers in the future.
+
+Created By Jeetesh Chattraband
+
 [![Cloud Player Teaser](./src/assets/meta/social/facebook.jpg)](https://cloud-player.io)
 
 ## Multiple providers – One player
